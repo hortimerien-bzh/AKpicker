@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>AK Interactive Colour Finder</title>
+    <link rel="stylesheet" href="styles.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <main class="app">
+      <header>
+        <p class="eyebrow">AK Interactive utility</p>
+        <h1>AK Interactive Colour Finder</h1>
+        <p class="lede">
+          Pick any colour or paste a hex value to see the closest matching
+          AK&nbsp;Interactive 3rd Generation acrylic paint.
+        </p>
+      </header>
+
+      <section class="panel image-uploader" aria-label="Image colour picker">
+        <div class="uploader-controls">
+          <label class="control file-control">
+            <span>Upload reference image</span>
+            <input type="file" id="imageInput" accept="image/*" />
+          </label>
+          <p class="muted">
+            Drop or pick a photo, then click anywhere on it to sample that pixel
+            and find the closest AK shade.
+          </p>
+        </div>
+        <div class="canvas-wrapper empty" id="canvasWrapper">
+          <p class="placeholder muted">
+            Upload an image to begin sampling colours.
+          </p>
+          <canvas
+            id="imageCanvas"
+            width="0"
+            height="0"
+            aria-label="Uploaded image"
+          ></canvas>
+          <div id="loupe" class="loupe hidden" aria-hidden="true">
+            <div class="loupe-preview">
+              <canvas id="loupeCanvas" width="5" height="5"></canvas>
+              <div class="crosshair"></div>
+            </div>
+            <div class="loupe-chip" id="loupeChip"></div>
+            <div class="loupe-meta">
+              <span class="label">Sample</span>
+              <span id="loupeColor">#FFFFFF</span>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="panel controls" aria-label="Manual colour picker">
+        <label class="control">
+          <span>Pick a colour</span>
+          <input type="color" id="colorPicker" value="#FF6B35" />
+        </label>
+        <label class="control">
+          <span>Hex value</span>
+          <input
+            type="text"
+            id="hexInput"
+            maxlength="7"
+            spellcheck="false"
+            value="#FF6B35"
+            placeholder="#RRGGBB"
+          />
+        </label>
+        <button type="button" id="randomButton" class="ghost">
+          Random AK shade
+        </button>
+      </section>
+
+      <section id="status" class="status" role="status" aria-live="polite">
+        Loading AK palette…
+      </section>
+
+      <section id="bestMatch" class="panel match-card hidden">
+        <div class="swatch" id="bestSwatch" aria-hidden="true"></div>
+        <div class="details">
+          <p class="eyebrow">Closest match</p>
+          <h2 id="bestName">AK shade</h2>
+          <p id="bestId" class="muted"></p>
+          <dl>
+            <div>
+              <dt>Hex</dt>
+              <dd id="bestHex">—</dd>
+            </div>
+            <div>
+              <dt>Type</dt>
+              <dd id="bestType">—</dd>
+            </div>
+            <div>
+              <dt>Layer</dt>
+              <dd id="bestLayer">—</dd>
+            </div>
+            <div>
+              <dt>Shade</dt>
+              <dd id="bestShade">—</dd>
+            </div>
+            <div>
+              <dt>Highlight</dt>
+              <dd id="bestHighlight">—</dd>
+            </div>
+          </dl>
+          <a id="bestLink" class="button" href="#" target="_blank" rel="noreferrer"
+            >View on ak-interactive.com</a
+          >
+        </div>
+      </section>
+
+      <section id="suggestions" class="panel hidden">
+        <div class="suggestions-heading">
+          <h3>Nearby matches</h3>
+          <p class="muted">Variations within the AK palette</p>
+        </div>
+        <div id="suggestionList" class="suggestions-grid"></div>
+      </section>
+    </main>
+    <script src="app.js" type="module"></script>
+  </body>
+</html>
