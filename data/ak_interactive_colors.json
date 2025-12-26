@@ -1,0 +1,2302 @@
+[
+  {
+    "Id": "AK-11001",
+    "Name": "White",
+    "Value": "#FFFFFF",
+    "Type": "Extra Opaque",
+    "Layer": null,
+    "Shade": "AK-11002",
+    "Highlight": null,
+    "Url": "https://ak-interactive.com/product/white-intense/"
+  },
+  {
+    "Id": "AK-11002",
+    "Name": "Offwhite",
+    "Value": "#EDEBE2",
+    "Type": "Opaque",
+    "Layer": "AK-11003",
+    "Shade": "AK-11114",
+    "Highlight": "AK-11001",
+    "Url": "https://ak-interactive.com/product/offwhite-standard/"
+  },
+  {
+    "Id": "AK-11003",
+    "Name": "White Grey",
+    "Value": "#F5F5EE",
+    "Type": "Opaque",
+    "Layer": "AK-11001",
+    "Shade": "AK-11114",
+    "Highlight": null,
+    "Url": "https://ak-interactive.com/product/white-grey-standard/"
+  },
+  {
+    "Id": "AK-11004",
+    "Name": "Ivory",
+    "Value": "#F3EDC6",
+    "Type": "Opaque",
+    "Layer": "AK-11003",
+    "Shade": "AK-11008",
+    "Highlight": "AK-11001",
+    "Url": "https://ak-interactive.com/product/ivory-standard/"
+  },
+  {
+    "Id": "AK-11005",
+    "Name": "Greenish White",
+    "Value": "#E5EECC",
+    "Type": "Opaque",
+    "Layer": "AK-11004",
+    "Shade": "AK-11168",
+    "Highlight": "AK-11003",
+    "Url": "https://ak-interactive.com/product/greenish-white-standard/"
+  },
+  {
+    "Id": "AK-11006",
+    "Name": "Silver Grey",
+    "Value": "#E5D9B9",
+    "Type": "Opaque",
+    "Layer": "AK-11004",
+    "Shade": "AK-11114",
+    "Highlight": "AK-11003",
+    "Url": "https://ak-interactive.com/product/silver-grey-standard/"
+  },
+  {
+    "Id": "AK-11007",
+    "Name": "Rock Grey",
+    "Value": "#C0B898",
+    "Type": "Opaque",
+    "Layer": "AK-11114",
+    "Shade": "AK-11014",
+    "Highlight": "AK-11006",
+    "Url": "https://ak-interactive.com/product/rock-grey-standard/"
+  },
+  {
+    "Id": "AK-11008",
+    "Name": "Grimy Grey",
+    "Value": "#DFC898",
+    "Type": "Opaque",
+    "Layer": "AK-11050",
+    "Shade": "AK-11057",
+    "Highlight": "AK-11001",
+    "Url": "https://ak-interactive.com/product/grimy-grey-standard/"
+  },
+  {
+    "Id": "AK-11009",
+    "Name": "Warm Grey",
+    "Value": "#B4A88A",
+    "Type": "Opaque",
+    "Layer": "AK-11007",
+    "Shade": "AK-11014",
+    "Highlight": "AK-11114",
+    "Url": "https://ak-interactive.com/product/warm-grey-standard/"
+  },
+  {
+    "Id": "AK-11010",
+    "Name": "Medium Grey",
+    "Value": "#B7B9A2",
+    "Type": "Opaque",
+    "Layer": "AK-11007",
+    "Shade": "AK-11014",
+    "Highlight": "AK-11114",
+    "Url": "https://ak-interactive.com/product/medium-grey-standard/"
+  },
+  {
+    "Id": "AK-11011",
+    "Name": "Blue-Grey",
+    "Value": "#C7D0CD",
+    "Type": "Opaque",
+    "Layer": "AK-11002",
+    "Shade": "AK-11162",
+    "Highlight": "AK-11003",
+    "Url": "https://ak-interactive.com/product/blue-grey-standard/"
+  },
+  {
+    "Id": "AK-11012",
+    "Name": "Sky Grey",
+    "Value": "#BABAB7",
+    "Type": "Opaque",
+    "Layer": "AK-11002",
+    "Shade": "AK-11015",
+    "Highlight": "AK-11003",
+    "Url": "https://ak-interactive.com/product/sky-grey-standard/"
+  },
+  {
+    "Id": "AK-11013",
+    "Name": "Pale Grey",
+    "Value": "#AEB0B6",
+    "Type": "Opaque",
+    "Layer": "AK-11012",
+    "Shade": "AK-11165",
+    "Highlight": "AK-11002",
+    "Url": "https://ak-interactive.com/product/pale-grey-standard/"
+  },
+  {
+    "Id": "AK-11014",
+    "Name": "Medium Sea Grey",
+    "Value": "#A09B81",
+    "Type": "Opaque",
+    "Layer": "AK-11009",
+    "Shade": "AK-11016",
+    "Highlight": "AK-11007",
+    "Url": "https://ak-interactive.com/product/medium-sea-grey-standard/"
+  },
+  {
+    "Id": "AK-11015",
+    "Name": "Dark Sea Grey",
+    "Value": "#7B7973",
+    "Type": "Opaque",
+    "Layer": "AK-11012",
+    "Shade": "AK-11020",
+    "Highlight": "AK-11002",
+    "Url": "https://ak-interactive.com/product/dark-sea-grey-standard/"
+  },
+  {
+    "Id": "AK-11016",
+    "Name": "Grey-Green",
+    "Value": "#818166",
+    "Type": "Opaque",
+    "Layer": "AK-11014",
+    "Shade": "AK-11019",
+    "Highlight": "AK-11009",
+    "Url": "https://ak-interactive.com/product/grey-green-standard/"
+  },
+  {
+    "Id": "AK-11017",
+    "Name": "Reddish Grey",
+    "Value": "#7A6C53",
+    "Type": "Opaque",
+    "Layer": "AK-11016",
+    "Shade": "AK-11125",
+    "Highlight": "AK-11014",
+    "Url": "https://ak-interactive.com/product/reddish-grey-standard/"
+  },
+  {
+    "Id": "AK-11018",
+    "Name": "Neutral Grey",
+    "Value": "#686F69",
+    "Type": "Opaque",
+    "Layer": "AK-11020",
+    "Shade": "AK-11021",
+    "Highlight": "AK-11015",
+    "Url": "https://ak-interactive.com/product/neutral-grey-standard/"
+  },
+  {
+    "Id": "AK-11019",
+    "Name": "Graphite",
+    "Value": "#6C6F61",
+    "Type": "Opaque",
+    "Layer": "AK-11016",
+    "Shade": "AK-11021",
+    "Highlight": "AK-11014",
+    "Url": "https://ak-interactive.com/product/graphite-standard/"
+  },
+  {
+    "Id": "AK-11020",
+    "Name": "English Grey",
+    "Value": "#706E65",
+    "Type": "Opaque",
+    "Layer": "AK-11015",
+    "Shade": "AK-11166",
+    "Highlight": "AK-11012",
+    "Url": "https://ak-interactive.com/product/english-grey-standard/"
+  },
+  {
+    "Id": "AK-11021",
+    "Name": "Basalt Grey",
+    "Value": "#5E625E",
+    "Type": "Opaque",
+    "Layer": "AK-11163",
+    "Shade": "AK-11166",
+    "Highlight": "AK-11018",
+    "Url": "https://ak-interactive.com/product/basalt-grey-standard/"
+  },
+  {
+    "Id": "AK-11022",
+    "Name": "Dark Grey",
+    "Value": "#4B4A44",
+    "Type": "Opaque",
+    "Layer": "AK-11166",
+    "Shade": "AK-11024",
+    "Highlight": "AK-11021",
+    "Url": "https://ak-interactive.com/product/dark-grey-standard/"
+  },
+  {
+    "Id": "AK-11023",
+    "Name": "Lead Grey",
+    "Value": "#454843",
+    "Type": "Opaque",
+    "Layer": "AK-11022",
+    "Shade": "AK-11025",
+    "Highlight": "AK-11166",
+    "Url": "https://ak-interactive.com/product/lead-grey-standard/"
+  },
+  {
+    "Id": "AK-11024",
+    "Name": "Ash Grey",
+    "Value": "#42433A",
+    "Type": "Opaque",
+    "Layer": "AK-11023",
+    "Shade": "AK-11025",
+    "Highlight": "AK-11022",
+    "Url": "https://ak-interactive.com/product/ash-grey-standard/"
+  },
+  {
+    "Id": "AK-11025",
+    "Name": "German Grey",
+    "Value": "#383830",
+    "Type": "Opaque",
+    "Layer": "AK-11024",
+    "Shade": "AK-11028",
+    "Highlight": "AK-11023",
+    "Url": "https://ak-interactive.com/product/german-grey-standard/"
+  },
+  {
+    "Id": "AK-11026",
+    "Name": "Tenebrous Grey",
+    "Value": "#2F2C21",
+    "Type": "Opaque",
+    "Layer": "AK-11025",
+    "Shade": "AK-11027",
+    "Highlight": "AK-11024",
+    "Url": "https://ak-interactive.com/product/tenebrous-grey-standard/"
+  },
+  {
+    "Id": "AK-11027",
+    "Name": "Rubber Black",
+    "Value": "#2A2619",
+    "Type": "Opaque",
+    "Layer": "AK-11026",
+    "Shade": "AK-11112",
+    "Highlight": "AK-11025",
+    "Url": "https://ak-interactive.com/product/rubber-black-standard/"
+  },
+  {
+    "Id": "AK-11028",
+    "Name": "Smoke Black",
+    "Value": "#2C2C22",
+    "Type": "Opaque",
+    "Layer": "AK-11026",
+    "Shade": "AK-11160",
+    "Highlight": "AK-11025",
+    "Url": "https://ak-interactive.com/product/smoke-black-standard/"
+  },
+  {
+    "Id": "AK-11029",
+    "Name": "Black",
+    "Value": "#12120C",
+    "Type": "Extra Opaque",
+    "Layer": "AK-11112",
+    "Shade": "AK-11223",
+    "Highlight": "AK-11111",
+    "Url": "https://ak-interactive.com/product/black-intense/"
+  },
+  {
+    "Id": "AK-11030",
+    "Name": "Beige",
+    "Value": "#E1B949",
+    "Type": "Opaque",
+    "Layer": "AK-11033",
+    "Shade": "AK-11034",
+    "Highlight": "AK-11037",
+    "Url": "https://ak-interactive.com/product/beige-standard/"
+  },
+  {
+    "Id": "AK-11031",
+    "Name": "Buff",
+    "Value": "#D2AD5D",
+    "Type": "Opaque",
+    "Layer": "AK-11033",
+    "Shade": "AK-11058",
+    "Highlight": "AK-11037",
+    "Url": "https://ak-interactive.com/product/buff-standard/"
+  },
+  {
+    "Id": "AK-11032",
+    "Name": "Pale Sand",
+    "Value": "#EFD782",
+    "Type": "Opaque",
+    "Layer": "AK-11037",
+    "Shade": "AK-11031",
+    "Highlight": "AK-11036",
+    "Url": "https://ak-interactive.com/product/pale-sand-standard/"
+  },
+  {
+    "Id": "AK-11033",
+    "Name": "Dark Sand",
+    "Value": "#E5BD58",
+    "Type": "Opaque",
+    "Layer": "AK-11037",
+    "Shade": "AK-11031",
+    "Highlight": "AK-11036",
+    "Url": "https://ak-interactive.com/product/dark-sand-standard/"
+  },
+  {
+    "Id": "AK-11034",
+    "Name": "Medium Sand",
+    "Value": "#CD9A32",
+    "Type": "Opaque",
+    "Layer": "AK-11116",
+    "Shade": "AK-11040",
+    "Highlight": "AK-11099",
+    "Url": "https://ak-interactive.com/product/medium-sand-standard/"
+  },
+  {
+    "Id": "AK-11035",
+    "Name": "Sand Yellow",
+    "Value": "#E9BD39",
+    "Type": "Opaque",
+    "Layer": "AK-11038",
+    "Shade": "AK-11034",
+    "Highlight": "AK-11036",
+    "Url": "https://ak-interactive.com/product/sand-yellow-standard/"
+  },
+  {
+    "Id": "AK-11036",
+    "Name": "Ice Yellow",
+    "Value": "#FFF08E",
+    "Type": "Opaque",
+    "Layer": "AK-11001",
+    "Shade": "AK-11033",
+    "Highlight": null,
+    "Url": "https://ak-interactive.com/product/ice-yellow-standard/"
+  },
+  {
+    "Id": "AK-11037",
+    "Name": "Pastel Yellow",
+    "Value": "#FCDA75",
+    "Type": "Opaque",
+    "Layer": "AK-11036",
+    "Shade": "AK-11033",
+    "Highlight": "AK-11001",
+    "Url": "https://ak-interactive.com/product/pastel-yellow-pastel/"
+  },
+  {
+    "Id": "AK-11038",
+    "Name": "Pale Yellow",
+    "Value": "#FEDD5B",
+    "Type": "Opaque",
+    "Layer": "AK-11036",
+    "Shade": "AK-11039",
+    "Highlight": "AK-11001",
+    "Url": "https://ak-interactive.com/product/pale-yellow-standard/"
+  },
+  {
+    "Id": "AK-11039",
+    "Name": "Purulent Yellow",
+    "Value": "#EBD23A",
+    "Type": "Opaque",
+    "Layer": "AK-11038",
+    "Shade": "AK-11128",
+    "Highlight": "AK-11036",
+    "Url": "https://ak-interactive.com/product/purulent-yellow-standard/"
+  },
+  {
+    "Id": "AK-11040",
+    "Name": "Sahara Yellow",
+    "Value": "#B1940F",
+    "Type": "Opaque",
+    "Layer": "AK-11118",
+    "Shade": "AK-11123",
+    "Highlight": "AK-11034",
+    "Url": "https://ak-interactive.com/product/sahara-yellow-standard/"
+  },
+  {
+    "Id": "AK-11041",
+    "Name": "Golden Yellow",
+    "Value": "#F9B14C",
+    "Type": "Opaque",
+    "Layer": "AK-11044",
+    "Shade": "AK-11034",
+    "Highlight": "AK-11045",
+    "Url": "https://ak-interactive.com/product/golden-yellow-standard/"
+  },
+  {
+    "Id": "AK-11042",
+    "Name": "Volcanic Yellow",
+    "Value": "#F0921A",
+    "Type": "Opaque",
+    "Layer": "AK-11082",
+    "Shade": "AK-11054",
+    "Highlight": "AK-11041",
+    "Url": "https://ak-interactive.com/product/volcanic-yellow-standard/"
+  },
+  {
+    "Id": "AK-11043",
+    "Name": "Dirty Yellow",
+    "Value": "#EEA81B",
+    "Type": "Opaque",
+    "Layer": "AK-11044",
+    "Shade": "AK-11034",
+    "Highlight": "AK-11045",
+    "Url": "https://ak-interactive.com/product/dirty-yellow-standard/"
+  },
+  {
+    "Id": "AK-11044",
+    "Name": "Yellow",
+    "Value": "#FAB719",
+    "Type": "Opaque",
+    "Layer": "AK-11045",
+    "Shade": "AK-11030",
+    "Highlight": "AK-11046",
+    "Url": "https://ak-interactive.com/product/yellow-standard/"
+  },
+  {
+    "Id": "AK-11045",
+    "Name": "Deep Yellow",
+    "Value": "#FDC607",
+    "Type": "Extra Opaque",
+    "Layer": "AK-11046",
+    "Shade": "AK-11035",
+    "Highlight": "AK-11047",
+    "Url": "https://ak-interactive.com/product/deep-yellow-intense/"
+  },
+  {
+    "Id": "AK-11046",
+    "Name": "Radiant Yellow",
+    "Value": "#FFD407",
+    "Type": "Opaque",
+    "Layer": "AK-11047",
+    "Shade": "AK-11039",
+    "Highlight": "AK-11036",
+    "Url": "https://ak-interactive.com/product/radiant-yellow-standard/"
+  },
+  {
+    "Id": "AK-11047",
+    "Name": "Lemon Yellow",
+    "Value": "#FFE221",
+    "Type": "Opaque",
+    "Layer": "AK-11036",
+    "Shade": "AK-11039",
+    "Highlight": "AK-11001",
+    "Url": "https://ak-interactive.com/product/lemon-yellow-standard/"
+  },
+  {
+    "Id": "AK-11048",
+    "Name": "Laser Yellow",
+    "Value": "#F0E639",
+    "Type": "Opaque",
+    "Layer": "AK-11047",
+    "Shade": "AK-11130",
+    "Highlight": "AK-11036",
+    "Url": "https://ak-interactive.com/product/laser-yellow-standard/"
+  },
+  {
+    "Id": "AK-11049",
+    "Name": "Fluorescent Yellow",
+    "Value": "#EEE429",
+    "Type": "Opaque",
+    "Layer": "AK-11048",
+    "Shade": "AK-11130",
+    "Highlight": "AK-11047",
+    "Url": "https://ak-interactive.com/product/fluorescent-yellow-standard/"
+  },
+  {
+    "Id": "AK-11050",
+    "Name": "Light Flesh",
+    "Value": "#FEDEB4",
+    "Type": "Opaque",
+    "Layer": "AK-11001",
+    "Shade": "AK-11008",
+    "Highlight": null,
+    "Url": "https://ak-interactive.com/product/light-flesh-standard/"
+  },
+  {
+    "Id": "AK-11051",
+    "Name": "Luminous Flesh",
+    "Value": "#EEC280",
+    "Type": "Opaque",
+    "Layer": "AK-11052",
+    "Shade": "AK-11115",
+    "Highlight": "AK-11059",
+    "Url": "https://ak-interactive.com/product/luminous-flesh-standard/"
+  },
+  {
+    "Id": "AK-11052",
+    "Name": "Basic Skin Tone",
+    "Value": "#F8B57C",
+    "Type": "Opaque",
+    "Layer": "AK-11059",
+    "Shade": "AK-11064",
+    "Highlight": "AK-11050",
+    "Url": "https://ak-interactive.com/product/basic-skin-tone-standard/"
+  },
+  {
+    "Id": "AK-11053",
+    "Name": "Radiant Flesh",
+    "Value": "#F8B058",
+    "Type": "Opaque",
+    "Layer": "AK-11041",
+    "Shade": "AK-11116",
+    "Highlight": "AK-11044",
+    "Url": "https://ak-interactive.com/product/radiant-flesh-standard/"
+  },
+  {
+    "Id": "AK-11054",
+    "Name": "Medium Flesh Tone",
+    "Value": "#CA812E",
+    "Type": "Opaque",
+    "Layer": "AK-11100",
+    "Shade": "AK-11117",
+    "Highlight": "AK-11064",
+    "Url": "https://ak-interactive.com/product/medium-flesh-tone-standard/"
+  },
+  {
+    "Id": "AK-11055",
+    "Name": "Sunny Skin Tone",
+    "Value": "#F6A654",
+    "Type": "Opaque",
+    "Layer": "AK-11099",
+    "Shade": "AK-11116",
+    "Highlight": "AK-11053",
+    "Url": "https://ak-interactive.com/product/sunny-skin-tone-standard/"
+  },
+  {
+    "Id": "AK-11056",
+    "Name": "Dark Flesh",
+    "Value": "#EDA538",
+    "Type": "Opaque",
+    "Layer": "AK-11041",
+    "Shade": "AK-11034",
+    "Highlight": "AK-11044",
+    "Url": "https://ak-interactive.com/product/dark-flesh-standard/"
+  },
+  {
+    "Id": "AK-11057",
+    "Name": "Vampiric Flesh",
+    "Value": "#CEBD82",
+    "Type": "Opaque",
+    "Layer": "AK-11115",
+    "Shade": "AK-11058",
+    "Highlight": "AK-11008",
+    "Url": "https://ak-interactive.com/product/vampiric-flesh-standard/"
+  },
+  {
+    "Id": "AK-11058",
+    "Name": "Decomposed Flesh",
+    "Value": "#BAA361",
+    "Type": "Opaque",
+    "Layer": "AK-11115",
+    "Shade": "AK-11122",
+    "Highlight": "AK-11008",
+    "Url": "https://ak-interactive.com/product/decomposed-flesh-standard/"
+  },
+  {
+    "Id": "AK-11059",
+    "Name": "Pastel Pink",
+    "Value": "#F9C2A9",
+    "Type": "Opaque",
+    "Layer": "AK-11050",
+    "Shade": "AK-11008",
+    "Highlight": "AK-11001",
+    "Url": "https://ak-interactive.com/product/pastel-pink-pastel/"
+  },
+  {
+    "Id": "AK-11060",
+    "Name": "Sickly Pink",
+    "Value": "#F7B393",
+    "Type": "Opaque",
+    "Layer": "AK-11059",
+    "Shade": "AK-11063",
+    "Highlight": "AK-11050",
+    "Url": "https://ak-interactive.com/product/sickly-pink-standard/"
+  },
+  {
+    "Id": "AK-11061",
+    "Name": "Salmon",
+    "Value": "#F5A176",
+    "Type": "Opaque",
+    "Layer": "AK-11052",
+    "Shade": "AK-11064",
+    "Highlight": "AK-11059",
+    "Url": "https://ak-interactive.com/product/salmon-standard/"
+  },
+  {
+    "Id": "AK-11062",
+    "Name": "Old Rose",
+    "Value": "#F3957D",
+    "Type": "Opaque",
+    "Layer": "AK-11061",
+    "Shade": "AK-11063",
+    "Highlight": "AK-11052",
+    "Url": "https://ak-interactive.com/product/old-rose-standard/"
+  },
+  {
+    "Id": "AK-11063",
+    "Name": "Brown Rose",
+    "Value": "#D98463",
+    "Type": "Opaque",
+    "Layer": "AK-11062",
+    "Shade": "AK-11119",
+    "Highlight": "AK-11061",
+    "Url": "https://ak-interactive.com/product/brown-rose-standard/"
+  },
+  {
+    "Id": "AK-11064",
+    "Name": "Beige Red",
+    "Value": "#DE935A",
+    "Type": "Opaque",
+    "Layer": "AK-11076",
+    "Shade": "AK-11054",
+    "Highlight": "AK-11099",
+    "Url": "https://ak-interactive.com/product/beige-red-standard/"
+  },
+  {
+    "Id": "AK-11065",
+    "Name": "Intense Pink",
+    "Value": "#EB748F",
+    "Type": "Extra Opaque",
+    "Layer": "AK-11062",
+    "Shade": "AK-11067",
+    "Highlight": "AK-11061",
+    "Url": "https://ak-interactive.com/product/intense-pink-intense/"
+  },
+  {
+    "Id": "AK-11066",
+    "Name": "Laser Magenta",
+    "Value": "#6B102E",
+    "Type": "Opaque",
+    "Layer": "AK-11067",
+    "Shade": "AK-11075",
+    "Highlight": "AK-11068",
+    "Url": "https://ak-interactive.com/product/laser-magenta-standard/"
+  },
+  {
+    "Id": "AK-11067",
+    "Name": "Magenta",
+    "Value": "#B23360",
+    "Type": "Opaque",
+    "Layer": "AK-11068",
+    "Shade": "AK-11066",
+    "Highlight": "AK-11065",
+    "Url": "https://ak-interactive.com/product/magenta-standard/"
+  },
+  {
+    "Id": "AK-11068",
+    "Name": "Fluorescent Magenta",
+    "Value": "#EA4F6A",
+    "Type": "Opaque",
+    "Layer": "AK-11065",
+    "Shade": "AK-11084",
+    "Highlight": "AK-11062",
+    "Url": "https://ak-interactive.com/product/fluorescent-magenta-standard/"
+  },
+  {
+    "Id": "AK-11069",
+    "Name": "Pastel Violet",
+    "Value": "#FDE7F1",
+    "Type": "Opaque",
+    "Layer": "AK-11001",
+    "Shade": "AK-11065",
+    "Highlight": null,
+    "Url": "https://ak-interactive.com/product/pastel-violet-pastel/"
+  },
+  {
+    "Id": "AK-11070",
+    "Name": "Blue Violet",
+    "Value": "#8A6FA5",
+    "Type": "Opaque",
+    "Layer": "AK-11069",
+    "Shade": "AK-11072",
+    "Highlight": "AK-11001",
+    "Url": "https://ak-interactive.com/product/blue-violet-standard/"
+  },
+  {
+    "Id": "AK-11071",
+    "Name": "Lilac",
+    "Value": "#656074",
+    "Type": "Opaque",
+    "Layer": "AK-11072",
+    "Shade": "AK-11188",
+    "Highlight": "AK-11074",
+    "Url": "https://ak-interactive.com/product/lilac-standard/"
+  },
+  {
+    "Id": "AK-11072",
+    "Name": "Deep Violet",
+    "Value": "#75556E",
+    "Type": "Extra Opaque",
+    "Layer": "AK-11074",
+    "Shade": "AK-11073",
+    "Highlight": "AK-11070",
+    "Url": "https://ak-interactive.com/product/deep-violet-intense/"
+  },
+  {
+    "Id": "AK-11073",
+    "Name": "Purple",
+    "Value": "#5B4650",
+    "Type": "Opaque",
+    "Layer": "AK-11072",
+    "Shade": "AK-11223",
+    "Highlight": "AK-11074",
+    "Url": "https://ak-interactive.com/product/purple-standard/"
+  },
+  {
+    "Id": "AK-11074",
+    "Name": "Deep Purple",
+    "Value": "#7C4B69",
+    "Type": "Extra Opaque",
+    "Layer": "AK-11070",
+    "Shade": "AK-11073",
+    "Highlight": "AK-11013",
+    "Url": "https://ak-interactive.com/product/deep-purple-intense/"
+  },
+  {
+    "Id": "AK-11075",
+    "Name": "Violet Red",
+    "Value": "#583436",
+    "Type": "Opaque",
+    "Layer": "AK-11073",
+    "Shade": "AK-11229",
+    "Highlight": "AK-11072",
+    "Url": "https://ak-interactive.com/product/violet-red-standard/"
+  },
+  {
+    "Id": "AK-11076",
+    "Name": "Pastel Peach",
+    "Value": "#F49A57",
+    "Type": "Opaque",
+    "Layer": "AK-11099",
+    "Shade": "AK-11064",
+    "Highlight": "AK-11053",
+    "Url": "https://ak-interactive.com/product/pastel-peach-pastel/"
+  },
+  {
+    "Id": "AK-11077",
+    "Name": "Light Orange",
+    "Value": "#EF7B3D",
+    "Type": "Opaque",
+    "Layer": "AK-11076",
+    "Shade": "AK-11079",
+    "Highlight": "AK-11099",
+    "Url": "https://ak-interactive.com/product/light-orange-standard/"
+  },
+  {
+    "Id": "AK-11078",
+    "Name": "Medium Orange",
+    "Value": "#EC6833",
+    "Type": "Opaque",
+    "Layer": "AK-11077",
+    "Shade": "AK-11105",
+    "Highlight": "AK-11076",
+    "Url": "https://ak-interactive.com/product/medium-orange-standard/"
+  },
+  {
+    "Id": "AK-11079",
+    "Name": "Burn Orange",
+    "Value": "#DD5F2F",
+    "Type": "Opaque",
+    "Layer": "AK-11078",
+    "Shade": "AK-11090",
+    "Highlight": "AK-11077",
+    "Url": "https://ak-interactive.com/product/burn-orange-standard/"
+  },
+  {
+    "Id": "AK-11080",
+    "Name": "Deep Orange",
+    "Value": "#EB6025",
+    "Type": "Extra Opaque",
+    "Layer": "AK-11078",
+    "Shade": "AK-11105",
+    "Highlight": "AK-11077",
+    "Url": "https://ak-interactive.com/product/deep-orange-intense/"
+  },
+  {
+    "Id": "AK-11081",
+    "Name": "Fluorescent Orange",
+    "Value": "#EA571F",
+    "Type": "Opaque",
+    "Layer": "AK-11080",
+    "Shade": "AK-11086",
+    "Highlight": "AK-11078",
+    "Url": "https://ak-interactive.com/product/fluorescent-orange-standard/"
+  },
+  {
+    "Id": "AK-11082",
+    "Name": "Luminous Orange",
+    "Value": "#F18606",
+    "Type": "Opaque",
+    "Layer": "AK-11041",
+    "Shade": "AK-11054",
+    "Highlight": "AK-11044",
+    "Url": "https://ak-interactive.com/product/luminous-orange-standard/"
+  },
+  {
+    "Id": "AK-11083",
+    "Name": "Dead Red",
+    "Value": "#E94B4C",
+    "Type": "Opaque",
+    "Layer": "AK-11068",
+    "Shade": "AK-11084",
+    "Highlight": "AK-11065",
+    "Url": "https://ak-interactive.com/product/dead-red-standard/"
+  },
+  {
+    "Id": "AK-11084",
+    "Name": "Ruby",
+    "Value": "#CF4948",
+    "Type": "Opaque",
+    "Layer": "AK-11086",
+    "Shade": "AK-11091",
+    "Highlight": "AK-11079",
+    "Url": "https://ak-interactive.com/product/ruby-standard/"
+  },
+  {
+    "Id": "AK-11085",
+    "Name": "Cadmium Red",
+    "Value": "#E8592F",
+    "Type": "Opaque",
+    "Layer": "AK-11078",
+    "Shade": "AK-11086",
+    "Highlight": "AK-11077",
+    "Url": "https://ak-interactive.com/product/cadmium-red-standard/"
+  },
+  {
+    "Id": "AK-11086",
+    "Name": "Amaranth Red",
+    "Value": "#D04F28",
+    "Type": "Opaque",
+    "Layer": "AK-11079",
+    "Shade": "AK-11091",
+    "Highlight": "AK-11078",
+    "Url": "https://ak-interactive.com/product/amaranth-red-standard/"
+  },
+  {
+    "Id": "AK-11087",
+    "Name": "Scarlet Red",
+    "Value": "#CF3B28",
+    "Type": "Opaque",
+    "Layer": "AK-11086",
+    "Shade": "AK-11092",
+    "Highlight": "AK-11079",
+    "Url": "https://ak-interactive.com/product/scarlet-red-standard/"
+  },
+  {
+    "Id": "AK-11088",
+    "Name": "Deep Red",
+    "Value": "#DC211B",
+    "Type": "Extra Opaque",
+    "Layer": "AK-11085",
+    "Shade": "AK-11089",
+    "Highlight": "AK-11078",
+    "Url": "https://ak-interactive.com/product/deep-red-intense/"
+  },
+  {
+    "Id": "AK-11089",
+    "Name": "Blood Red",
+    "Value": "#C6241B",
+    "Type": "Opaque",
+    "Layer": "AK-11087",
+    "Shade": "AK-11092",
+    "Highlight": "AK-11086",
+    "Url": "https://ak-interactive.com/product/blood-red-standard/"
+  },
+  {
+    "Id": "AK-11090",
+    "Name": "Vermillion",
+    "Value": "#C64D33",
+    "Type": "Opaque",
+    "Layer": "AK-11086",
+    "Shade": "AK-11091",
+    "Highlight": "AK-11079",
+    "Url": "https://ak-interactive.com/product/vermillion-standard/"
+  },
+  {
+    "Id": "AK-11091",
+    "Name": "Carmine",
+    "Value": "#B83F23",
+    "Type": "Opaque",
+    "Layer": "AK-11090",
+    "Shade": "AK-11093",
+    "Highlight": "AK-11086",
+    "Url": "https://ak-interactive.com/product/carmine-standard/"
+  },
+  {
+    "Id": "AK-11092",
+    "Name": "Matt Red",
+    "Value": "#B4321B",
+    "Type": "Opaque",
+    "Layer": "AK-11091",
+    "Shade": "AK-11094",
+    "Highlight": "AK-11090",
+    "Url": "https://ak-interactive.com/product/matt-red-standard/"
+  },
+  {
+    "Id": "AK-11093",
+    "Name": "Brick Red",
+    "Value": "#9F4529",
+    "Type": "Opaque",
+    "Layer": "AK-11094",
+    "Shade": "AK-11095",
+    "Highlight": "AK-11091",
+    "Url": "https://ak-interactive.com/product/brick-red-standard/"
+  },
+  {
+    "Id": "AK-11094",
+    "Name": "Bordeaux Red",
+    "Value": "#A23B30",
+    "Type": "Opaque",
+    "Layer": "AK-11091",
+    "Shade": "AK-11095",
+    "Highlight": "AK-11090",
+    "Url": "https://ak-interactive.com/product/bordeaux-red-standard/"
+  },
+  {
+    "Id": "AK-11095",
+    "Name": "Dirty Red",
+    "Value": "#7F1B10",
+    "Type": "Opaque",
+    "Layer": "AK-11094",
+    "Shade": "AK-11096",
+    "Highlight": "AK-11091",
+    "Url": "https://ak-interactive.com/product/dirty-red-standard/"
+  },
+  {
+    "Id": "AK-11096",
+    "Name": "Wine Red",
+    "Value": "#681610",
+    "Type": "Opaque",
+    "Layer": "AK-11095",
+    "Shade": "AK-11107",
+    "Highlight": "AK-11094",
+    "Url": "https://ak-interactive.com/product/wine-red-standard/"
+  },
+  {
+    "Id": "AK-11097",
+    "Name": "Burnt Red",
+    "Value": "#523125",
+    "Type": "Opaque",
+    "Layer": "AK-11104",
+    "Shade": "AK-11098",
+    "Highlight": "AK-11102",
+    "Url": "https://ak-interactive.com/product/burnt-red-standard/"
+  },
+  {
+    "Id": "AK-11098",
+    "Name": "Black Red",
+    "Value": "#43281F",
+    "Type": "Opaque",
+    "Layer": "AK-11097",
+    "Shade": "AK-11108",
+    "Highlight": "AK-11104",
+    "Url": "https://ak-interactive.com/product/black-red-standard/"
+  },
+  {
+    "Id": "AK-11099",
+    "Name": "Ocher Orange",
+    "Value": "#F7A95F",
+    "Type": "Opaque",
+    "Layer": "AK-11053",
+    "Shade": "AK-11064",
+    "Highlight": "AK-11041",
+    "Url": "https://ak-interactive.com/product/ocher-orange-standard/"
+  },
+  {
+    "Id": "AK-11100",
+    "Name": "Light Brown",
+    "Value": "#CF8138",
+    "Type": "Opaque",
+    "Layer": "AK-11064",
+    "Shade": "AK-11117",
+    "Highlight": "AK-11076",
+    "Url": "https://ak-interactive.com/product/light-brown-standard/"
+  },
+  {
+    "Id": "AK-11101",
+    "Name": "Orange Brown",
+    "Value": "#B3591F",
+    "Type": "Opaque",
+    "Layer": "AK-11100",
+    "Shade": "AK-11093",
+    "Highlight": "AK-11064",
+    "Url": "https://ak-interactive.com/product/orange-brown-standard/"
+  },
+  {
+    "Id": "AK-11102",
+    "Name": "Deep Brown",
+    "Value": "#874C2B",
+    "Type": "Extra Opaque",
+    "Layer": "AK-11103",
+    "Shade": "AK-11121",
+    "Highlight": "AK-11093",
+    "Url": "https://ak-interactive.com/product/deep-brown-intense/"
+  },
+  {
+    "Id": "AK-11103",
+    "Name": "Medium Rust",
+    "Value": "#9E4B30",
+    "Type": "Opaque",
+    "Layer": "AK-11093",
+    "Shade": "AK-11102",
+    "Highlight": "AK-11094",
+    "Url": "https://ak-interactive.com/product/medium-rust-standard/"
+  },
+  {
+    "Id": "AK-11104",
+    "Name": "Saddle Brown",
+    "Value": "#6A3B2C",
+    "Type": "Opaque",
+    "Layer": "AK-11102",
+    "Shade": "AK-11097",
+    "Highlight": "AK-11103",
+    "Url": "https://ak-interactive.com/product/saddle-brown-standard/"
+  },
+  {
+    "Id": "AK-11105",
+    "Name": "Light Rust",
+    "Value": "#DA5714",
+    "Type": "Opaque",
+    "Layer": "AK-11080",
+    "Shade": "AK-11091",
+    "Highlight": "AK-11078",
+    "Url": "https://ak-interactive.com/product/light-rust-standard/"
+  },
+  {
+    "Id": "AK-11106",
+    "Name": "Mahogany Brown",
+    "Value": "#612C10",
+    "Type": "Opaque",
+    "Layer": "AK-11104",
+    "Shade": "AK-11107",
+    "Highlight": "AK-11102",
+    "Url": "https://ak-interactive.com/product/mahogany-brown-standard/"
+  },
+  {
+    "Id": "AK-11107",
+    "Name": "Dark Rust",
+    "Value": "#532711",
+    "Type": "Opaque",
+    "Layer": "AK-11106",
+    "Shade": "AK-11098",
+    "Highlight": "AK-11104",
+    "Url": "https://ak-interactive.com/product/dark-rust-standard/"
+  },
+  {
+    "Id": "AK-11108",
+    "Name": "Hull Red",
+    "Value": "#351C10",
+    "Type": "Opaque",
+    "Layer": "AK-11098",
+    "Shade": "AK-11113",
+    "Highlight": "AK-11097",
+    "Url": "https://ak-interactive.com/product/hull-red-standard/"
+  },
+  {
+    "Id": "AK-11109",
+    "Name": "Dark Brown",
+    "Value": "#543A17",
+    "Type": "Opaque",
+    "Layer": "AK-11127",
+    "Shade": "AK-11156",
+    "Highlight": "AK-11120",
+    "Url": "https://ak-interactive.com/product/dark-brown-standard/"
+  },
+  {
+    "Id": "AK-11110",
+    "Name": "Leather Brown",
+    "Value": "#45311E",
+    "Type": "Opaque",
+    "Layer": "AK-11097",
+    "Shade": "AK-11158",
+    "Highlight": "AK-11104",
+    "Url": "https://ak-interactive.com/product/leather-brown-standard/"
+  },
+  {
+    "Id": "AK-11111",
+    "Name": "Burnt Umber",
+    "Value": "#2B2012",
+    "Type": "Opaque",
+    "Layer": "AK-11113",
+    "Shade": "AK-11112",
+    "Highlight": "AK-11108",
+    "Url": "https://ak-interactive.com/product/burnt-umber-standard/"
+  },
+  {
+    "Id": "AK-11112",
+    "Name": "Grim Brown",
+    "Value": "#1E160E",
+    "Type": "Opaque",
+    "Layer": "AK-11111",
+    "Shade": "AK-11029",
+    "Highlight": "AK-11113",
+    "Url": "https://ak-interactive.com/product/grim-brown-standard/"
+  },
+  {
+    "Id": "AK-11113",
+    "Name": "Chocolate",
+    "Value": "#302011",
+    "Type": "Opaque",
+    "Layer": "AK-11108",
+    "Shade": "AK-11111",
+    "Highlight": "AK-11098",
+    "Url": "https://ak-interactive.com/product/chocolate-chipping-standard/"
+  },
+  {
+    "Id": "AK-11114",
+    "Name": "Deck Tan",
+    "Value": "#D0C5B0",
+    "Type": "Opaque",
+    "Layer": "AK-11006",
+    "Shade": "AK-11010",
+    "Highlight": "AK-11004",
+    "Url": "https://ak-interactive.com/product/deck-tan-standard/"
+  },
+  {
+    "Id": "AK-11115",
+    "Name": "Light Earth",
+    "Value": "#D0B57E",
+    "Type": "Opaque",
+    "Layer": "AK-11008",
+    "Shade": "AK-11058",
+    "Highlight": "AK-11050",
+    "Url": "https://ak-interactive.com/product/light-earth-standard/"
+  },
+  {
+    "Id": "AK-11116",
+    "Name": "Tan Yellow",
+    "Value": "#D29847",
+    "Type": "Opaque",
+    "Layer": "AK-11099",
+    "Shade": "AK-11122",
+    "Highlight": "AK-11053",
+    "Url": "https://ak-interactive.com/product/tan-yellow-standard/"
+  },
+  {
+    "Id": "AK-11117",
+    "Name": "Golden Brown",
+    "Value": "#AE7712",
+    "Type": "Opaque",
+    "Layer": "AK-11054",
+    "Shade": "AK-11123",
+    "Highlight": "AK-11100",
+    "Url": "https://ak-interactive.com/product/golden-brown-standard/"
+  },
+  {
+    "Id": "AK-11118",
+    "Name": "Ochre",
+    "Value": "#C7952E",
+    "Type": "Opaque",
+    "Layer": "AK-11034",
+    "Shade": "AK-11117",
+    "Highlight": "AK-11116",
+    "Url": "https://ak-interactive.com/product/ochre-standard/"
+  },
+  {
+    "Id": "AK-11119",
+    "Name": "Cork",
+    "Value": "#A27649",
+    "Type": "Opaque",
+    "Layer": "AK-11122",
+    "Shade": "AK-11121",
+    "Highlight": "AK-11116",
+    "Url": "https://ak-interactive.com/product/cork-standard/"
+  },
+  {
+    "Id": "AK-11120",
+    "Name": "Mud Brown",
+    "Value": "#725532",
+    "Type": "Opaque",
+    "Layer": "AK-11121",
+    "Shade": "AK-11127",
+    "Highlight": "AK-11119",
+    "Url": "https://ak-interactive.com/product/mud-brown-standard/"
+  },
+  {
+    "Id": "AK-11121",
+    "Name": "Tan Earth",
+    "Value": "#7D5B33",
+    "Type": "Opaque",
+    "Layer": "AK-11119",
+    "Shade": "AK-11120",
+    "Highlight": "AK-11122",
+    "Url": "https://ak-interactive.com/product/tan-earth-standard/"
+  },
+  {
+    "Id": "AK-11122",
+    "Name": "Green Ochre",
+    "Value": "#A68236",
+    "Type": "Opaque",
+    "Layer": "AK-11116",
+    "Shade": "AK-11123",
+    "Highlight": "AK-11099",
+    "Url": "https://ak-interactive.com/product/green-ochre-standard/"
+  },
+  {
+    "Id": "AK-11123",
+    "Name": "Japanese Brown",
+    "Value": "#956E1D",
+    "Type": "Opaque",
+    "Layer": "AK-11122",
+    "Shade": "AK-11126",
+    "Highlight": "AK-11116",
+    "Url": "https://ak-interactive.com/product/japanese-brown-standard/"
+  },
+  {
+    "Id": "AK-11124",
+    "Name": "Middle Stone",
+    "Value": "#8C7029",
+    "Type": "Opaque",
+    "Layer": "AK-11123",
+    "Shade": "AK-11126",
+    "Highlight": "AK-11122",
+    "Url": "https://ak-interactive.com/product/middle-stone-standard/"
+  },
+  {
+    "Id": "AK-11125",
+    "Name": "Grey-Brown",
+    "Value": "#705B3C",
+    "Type": "Opaque",
+    "Layer": "AK-11120",
+    "Shade": "AK-11127",
+    "Highlight": "AK-11121",
+    "Url": "https://ak-interactive.com/product/grey-brown-standard/"
+  },
+  {
+    "Id": "AK-11126",
+    "Name": "Green-Brown",
+    "Value": "#705A23",
+    "Type": "Opaque",
+    "Layer": "AK-11121",
+    "Shade": "AK-11127",
+    "Highlight": "AK-11119",
+    "Url": "https://ak-interactive.com/product/green-brown-standard/"
+  },
+  {
+    "Id": "AK-11127",
+    "Name": "British Khaki",
+    "Value": "#674D21",
+    "Type": "Opaque",
+    "Layer": "AK-11120",
+    "Shade": "AK-11151",
+    "Highlight": "AK-11121",
+    "Url": "https://ak-interactive.com/product/british-khaki-standard/"
+  },
+  {
+    "Id": "AK-11128",
+    "Name": "Luminous Green",
+    "Value": "#CBD641",
+    "Type": "Opaque",
+    "Layer": "AK-11130",
+    "Shade": "AK-11136",
+    "Highlight": "AK-11039",
+    "Url": "https://ak-interactive.com/product/luminous-green-standard/"
+  },
+  {
+    "Id": "AK-11129",
+    "Name": "Fluorescent Green",
+    "Value": "#97C122",
+    "Type": "Opaque",
+    "Layer": "AK-11128",
+    "Shade": "AK-11137",
+    "Highlight": "AK-11130",
+    "Url": "https://ak-interactive.com/product/fluorescent-green-standard/"
+  },
+  {
+    "Id": "AK-11130",
+    "Name": "Pistachio",
+    "Value": "#DBD02A",
+    "Type": "Opaque",
+    "Layer": "AK-11039",
+    "Shade": "AK-11138",
+    "Highlight": "AK-11038",
+    "Url": "https://ak-interactive.com/product/pistachio-standard/"
+  },
+  {
+    "Id": "AK-11131",
+    "Name": "Pastel Green",
+    "Value": "#AAD29A",
+    "Type": "Opaque",
+    "Layer": "AK-11168",
+    "Shade": "AK-11134",
+    "Highlight": "AK-11132",
+    "Url": "https://ak-interactive.com/product/pastel-green-pastel/"
+  },
+  {
+    "Id": "AK-11132",
+    "Name": "Green-Grey",
+    "Value": "#E0E5BF",
+    "Type": "Opaque",
+    "Layer": "AK-11005",
+    "Shade": "AK-11114",
+    "Highlight": "AK-11004",
+    "Url": "https://ak-interactive.com/product/green-grey-standard/"
+  },
+  {
+    "Id": "AK-11133",
+    "Name": "Dark Green-Grey",
+    "Value": "#3C4F3D",
+    "Type": "Opaque",
+    "Layer": "AK-11150",
+    "Shade": "AK-11024",
+    "Highlight": "AK-11164",
+    "Url": "https://ak-interactive.com/product/dark-green-grey-standard/"
+  },
+  {
+    "Id": "AK-11134",
+    "Name": "Green Sky",
+    "Value": "#8BB284",
+    "Type": "Opaque",
+    "Layer": "AK-11131",
+    "Shade": "AK-11135",
+    "Highlight": "AK-11168",
+    "Url": "https://ak-interactive.com/product/green-sky-standard/"
+  },
+  {
+    "Id": "AK-11135",
+    "Name": "Faded Green",
+    "Value": "#7D8972",
+    "Type": "Opaque",
+    "Layer": "AK-11014",
+    "Shade": "AK-11019",
+    "Highlight": "AK-11009",
+    "Url": "https://ak-interactive.com/product/faded-green-standard/"
+  },
+  {
+    "Id": "AK-11136",
+    "Name": "Frog Green",
+    "Value": "#98B921",
+    "Type": "Opaque",
+    "Layer": "AK-11129",
+    "Shade": "AK-11137",
+    "Highlight": "AK-11128",
+    "Url": "https://ak-interactive.com/product/frog-green-standard/"
+  },
+  {
+    "Id": "AK-11137",
+    "Name": "Lime Green",
+    "Value": "#839F2A",
+    "Type": "Opaque",
+    "Layer": "AK-11136",
+    "Shade": "AK-11141",
+    "Highlight": "AK-11129",
+    "Url": "https://ak-interactive.com/product/lime-green-standard/"
+  },
+  {
+    "Id": "AK-11138",
+    "Name": "Interior Yellow Green",
+    "Value": "#ACA317",
+    "Type": "Opaque",
+    "Layer": "AK-11040",
+    "Shade": "AK-11137",
+    "Highlight": "AK-11118",
+    "Url": "https://ak-interactive.com/product/interior-yellow-green-standard/"
+  },
+  {
+    "Id": "AK-11139",
+    "Name": "Golden Olive",
+    "Value": "#747C28",
+    "Type": "Opaque",
+    "Layer": "AK-11140",
+    "Shade": "AK-11152",
+    "Highlight": "AK-11141",
+    "Url": "https://ak-interactive.com/product/golden-olive-standard/"
+  },
+  {
+    "Id": "AK-11140",
+    "Name": "Grass Green",
+    "Value": "#65822C",
+    "Type": "Opaque",
+    "Layer": "AK-11141",
+    "Shade": "AK-11149",
+    "Highlight": "AK-11137",
+    "Url": "https://ak-interactive.com/product/grass-green-standard/"
+  },
+  {
+    "Id": "AK-11141",
+    "Name": "Light Green",
+    "Value": "#5A9232",
+    "Type": "Opaque",
+    "Layer": "AK-11137",
+    "Shade": "AK-11140",
+    "Highlight": "AK-11136",
+    "Url": "https://ak-interactive.com/product/light-green-standard/"
+  },
+  {
+    "Id": "AK-11142",
+    "Name": "Deep Green",
+    "Value": "#1D632D",
+    "Type": "Extra Opaque",
+    "Layer": "AK-11149",
+    "Shade": "AK-11145",
+    "Highlight": "AK-11140",
+    "Url": "https://ak-interactive.com/product/deep-green-intense/"
+  },
+  {
+    "Id": "AK-11143",
+    "Name": "Mint Green",
+    "Value": "#028D61",
+    "Type": "Opaque",
+    "Layer": "AK-11134",
+    "Shade": "AK-11144",
+    "Highlight": "AK-11131",
+    "Url": "https://ak-interactive.com/product/mint-green-standard/"
+  },
+  {
+    "Id": "AK-11144",
+    "Name": "Emerald",
+    "Value": "#066343",
+    "Type": "Opaque",
+    "Layer": "AK-11170",
+    "Shade": "AK-11145",
+    "Highlight": "AK-11169",
+    "Url": "https://ak-interactive.com/product/emerald-standard/"
+  },
+  {
+    "Id": "AK-11145",
+    "Name": "Lizard Green",
+    "Value": "#175A32",
+    "Type": "Opaque",
+    "Layer": "AK-11144",
+    "Shade": "AK-11146",
+    "Highlight": "AK-11170",
+    "Url": "https://ak-interactive.com/product/lizard-green-standard/"
+  },
+  {
+    "Id": "AK-11146",
+    "Name": "Dark Green",
+    "Value": "#23461E",
+    "Type": "Opaque",
+    "Layer": "AK-11148",
+    "Shade": "AK-11155",
+    "Highlight": "AK-11147",
+    "Url": "https://ak-interactive.com/product/dark-green-standard/"
+  },
+  {
+    "Id": "AK-11147",
+    "Name": "Olive Green",
+    "Value": "#4C6124",
+    "Type": "Opaque",
+    "Layer": "AK-11149",
+    "Shade": "AK-11148",
+    "Highlight": "AK-11140",
+    "Url": "https://ak-interactive.com/product/olive-green-standard/"
+  },
+  {
+    "Id": "AK-11148",
+    "Name": "Medium Olive Green",
+    "Value": "#3F5120",
+    "Type": "Opaque",
+    "Layer": "AK-11147",
+    "Shade": "AK-11146",
+    "Highlight": "AK-11149",
+    "Url": "https://ak-interactive.com/product/medium-olive-green-standard/"
+  },
+  {
+    "Id": "AK-11149",
+    "Name": "Intermediate Green",
+    "Value": "#506F32",
+    "Type": "Opaque",
+    "Layer": "AK-11140",
+    "Shade": "AK-11147",
+    "Highlight": "AK-11141",
+    "Url": "https://ak-interactive.com/product/intermediate-green-standard/"
+  },
+  {
+    "Id": "AK-11150",
+    "Name": "Gunship Green",
+    "Value": "#475435",
+    "Type": "Opaque",
+    "Layer": "AK-11164",
+    "Shade": "AK-11154",
+    "Highlight": "AK-11021",
+    "Url": "https://ak-interactive.com/product/gunship-green-standard/"
+  },
+  {
+    "Id": "AK-11151",
+    "Name": "Brownish Green",
+    "Value": "#574715",
+    "Type": "Opaque",
+    "Layer": "AK-11127",
+    "Shade": "AK-11156",
+    "Highlight": "AK-11120",
+    "Url": "https://ak-interactive.com/product/brownish-green-standard/"
+  },
+  {
+    "Id": "AK-11152",
+    "Name": "Alga Green",
+    "Value": "#565F22",
+    "Type": "Opaque",
+    "Layer": "AK-11147",
+    "Shade": "AK-11148",
+    "Highlight": "AK-11149",
+    "Url": "https://ak-interactive.com/product/alga-green-standard/"
+  },
+  {
+    "Id": "AK-11153",
+    "Name": "Extra Dark Green",
+    "Value": "#22322A",
+    "Type": "Opaque",
+    "Layer": "AK-11173",
+    "Shade": "AK-11167",
+    "Highlight": "AK-11172",
+    "Url": "https://ak-interactive.com/product/extra-dark-green-standard/"
+  },
+  {
+    "Id": "AK-11154",
+    "Name": "German Field Grey",
+    "Value": "#423E24",
+    "Type": "Opaque",
+    "Layer": "AK-11157",
+    "Shade": "AK-11158",
+    "Highlight": "AK-11156",
+    "Url": "https://ak-interactive.com/product/german-field-grey-standard/"
+  },
+  {
+    "Id": "AK-11155",
+    "Name": "Command Green",
+    "Value": "#302E18",
+    "Type": "Opaque",
+    "Layer": "AK-11158",
+    "Shade": "AK-11159",
+    "Highlight": "AK-11154",
+    "Url": "https://ak-interactive.com/product/command-green-standard/"
+  },
+  {
+    "Id": "AK-11156",
+    "Name": "Camouflage Green",
+    "Value": "#4E411D",
+    "Type": "Opaque",
+    "Layer": "AK-11109",
+    "Shade": "AK-11157",
+    "Highlight": "AK-11127",
+    "Url": "https://ak-interactive.com/product/camouflage-green-standard/"
+  },
+  {
+    "Id": "AK-11157",
+    "Name": "US Dark Green",
+    "Value": "#433918",
+    "Type": "Opaque",
+    "Layer": "AK-11156",
+    "Shade": "AK-11158",
+    "Highlight": "AK-11109",
+    "Url": "https://ak-interactive.com/product/us-dark-green-standard/"
+  },
+  {
+    "Id": "AK-11158",
+    "Name": "Reflective Green",
+    "Value": "#352F17",
+    "Type": "Opaque",
+    "Layer": "AK-11154",
+    "Shade": "AK-11155",
+    "Highlight": "AK-11157",
+    "Url": "https://ak-interactive.com/product/reflective-green-standard/"
+  },
+  {
+    "Id": "AK-11159",
+    "Name": "Russian Green",
+    "Value": "#292A17",
+    "Type": "Opaque",
+    "Layer": "AK-11155",
+    "Shade": "AK-11160",
+    "Highlight": "AK-11158",
+    "Url": "https://ak-interactive.com/product/russian-green-standard/"
+  },
+  {
+    "Id": "AK-11160",
+    "Name": "Black Green",
+    "Value": "#182116",
+    "Type": "Opaque",
+    "Layer": "AK-11028",
+    "Shade": "AK-11190",
+    "Highlight": "AK-11026",
+    "Url": "https://ak-interactive.com/product/black-green-standard/"
+  },
+  {
+    "Id": "AK-11161",
+    "Name": "Pale Blue",
+    "Value": "#B5C4B7",
+    "Type": "Opaque",
+    "Layer": "AK-11011",
+    "Shade": "AK-11134",
+    "Highlight": "AK-11174",
+    "Url": "https://ak-interactive.com/product/pale-blue-standard/"
+  },
+  {
+    "Id": "AK-11162",
+    "Name": "Spectrum Blue",
+    "Value": "#B3BEBF",
+    "Type": "Opaque",
+    "Layer": "AK-11011",
+    "Shade": "AK-11018",
+    "Highlight": "AK-11174",
+    "Url": "https://ak-interactive.com/product/spectrum-blue-standard/"
+  },
+  {
+    "Id": "AK-11163",
+    "Name": "Intermediate Blue",
+    "Value": "#676A67",
+    "Type": "Opaque",
+    "Layer": "AK-11018",
+    "Shade": "AK-11021",
+    "Highlight": "AK-11020",
+    "Url": "https://ak-interactive.com/product/intermediate-blue-standard/"
+  },
+  {
+    "Id": "AK-11164",
+    "Name": "Dark Blue-Grey",
+    "Value": "#4D5E54",
+    "Type": "Opaque",
+    "Layer": "AK-11021",
+    "Shade": "AK-11166",
+    "Highlight": "AK-11163",
+    "Url": "https://ak-interactive.com/product/dark-blue-grey-standard/"
+  },
+  {
+    "Id": "AK-11165",
+    "Name": "Grey-Blue",
+    "Value": "#5F6772",
+    "Type": "Opaque",
+    "Layer": "AK-11071",
+    "Shade": "AK-11188",
+    "Highlight": "AK-11072",
+    "Url": "https://ak-interactive.com/product/grey-blue-standard/"
+  },
+  {
+    "Id": "AK-11166",
+    "Name": "French Blue",
+    "Value": "#555754",
+    "Type": "Opaque",
+    "Layer": "AK-11021",
+    "Shade": "AK-11022",
+    "Highlight": "AK-11163",
+    "Url": "https://ak-interactive.com/product/french-blue-standard/"
+  },
+  {
+    "Id": "AK-11167",
+    "Name": "Anthracite Grey",
+    "Value": "#1D2A2C",
+    "Type": "Opaque",
+    "Layer": "AK-11173",
+    "Shade": "AK-11190",
+    "Highlight": "AK-11172",
+    "Url": "https://ak-interactive.com/product/anthracite-grey-standard/"
+  },
+  {
+    "Id": "AK-11168",
+    "Name": "Pastel Blue",
+    "Value": "#BCDCB8",
+    "Type": "Opaque",
+    "Layer": "AK-11132",
+    "Shade": "AK-11161",
+    "Highlight": "AK-11005",
+    "Url": "https://ak-interactive.com/product/pastel-blue-pastel/"
+  },
+  {
+    "Id": "AK-11169",
+    "Name": "Blue-Green",
+    "Value": "#388678",
+    "Type": "Opaque",
+    "Layer": "AK-11134",
+    "Shade": "AK-11170",
+    "Highlight": "AK-11131",
+    "Url": "https://ak-interactive.com/product/blue-green-standard/"
+  },
+  {
+    "Id": "AK-11170",
+    "Name": "Aquatic Turquoise",
+    "Value": "#006558",
+    "Type": "Opaque",
+    "Layer": "AK-11169",
+    "Shade": "AK-11171",
+    "Highlight": "AK-11134",
+    "Url": "https://ak-interactive.com/product/aquatic-turquoise-standard/"
+  },
+  {
+    "Id": "AK-11171",
+    "Name": "Turquoise",
+    "Value": "#044B4E",
+    "Type": "Opaque",
+    "Layer": "AK-11185",
+    "Shade": "AK-11172",
+    "Highlight": "AK-11178",
+    "Url": "https://ak-interactive.com/product/turquoise-standard/"
+  },
+  {
+    "Id": "AK-11172",
+    "Name": "Archaic Turquoise",
+    "Value": "#00383A",
+    "Type": "Opaque",
+    "Layer": "AK-11171",
+    "Shade": "AK-11153",
+    "Highlight": "AK-11185",
+    "Url": "https://ak-interactive.com/product/archaic-turquoise-standard/"
+  },
+  {
+    "Id": "AK-11173",
+    "Name": "Ocean Blue",
+    "Value": "#203736",
+    "Type": "Opaque",
+    "Layer": "AK-11172",
+    "Shade": "AK-11153",
+    "Highlight": "AK-11171",
+    "Url": "https://ak-interactive.com/product/ocean-blue-standard/"
+  },
+  {
+    "Id": "AK-11174",
+    "Name": "Snow Blue",
+    "Value": "#C9E4E0",
+    "Type": "Opaque",
+    "Layer": "AK-11002",
+    "Shade": "AK-11011",
+    "Highlight": "AK-11003",
+    "Url": "https://ak-interactive.com/product/snow-blue-standard/"
+  },
+  {
+    "Id": "AK-11175",
+    "Name": "Sky Blue",
+    "Value": "#8AC4CC",
+    "Type": "Opaque",
+    "Layer": "AK-11174",
+    "Shade": "AK-11013",
+    "Highlight": "AK-11002",
+    "Url": "https://ak-interactive.com/product/sky-blue-standard/"
+  },
+  {
+    "Id": "AK-11176",
+    "Name": "Deep Sky Blue",
+    "Value": "#69B5C7",
+    "Type": "Opaque",
+    "Layer": "AK-11175",
+    "Shade": "AK-11177",
+    "Highlight": "AK-11174",
+    "Url": "https://ak-interactive.com/product/deep-sky-blue-standard/"
+  },
+  {
+    "Id": "AK-11177",
+    "Name": "Ducat Blue",
+    "Value": "#3A88A1",
+    "Type": "Opaque",
+    "Layer": "AK-11176",
+    "Shade": "AK-11165",
+    "Highlight": "AK-11175",
+    "Url": "https://ak-interactive.com/product/ducat-blue-standard/"
+  },
+  {
+    "Id": "AK-11178",
+    "Name": "Fluorescent Blue",
+    "Value": "#014063",
+    "Type": "Opaque",
+    "Layer": "AK-11182",
+    "Shade": "AK-11181",
+    "Highlight": "AK-11179",
+    "Url": "https://ak-interactive.com/product/fluorescent-blue-standard/"
+  },
+  {
+    "Id": "AK-11179",
+    "Name": "Ultramarine",
+    "Value": "#243776",
+    "Type": "Opaque",
+    "Layer": null,
+    "Shade": "AK-11180",
+    "Highlight": null,
+    "Url": "https://ak-interactive.com/product/ultramarine-standard/"
+  },
+  {
+    "Id": "AK-11180",
+    "Name": "Imperial Blue",
+    "Value": "#22274F",
+    "Type": "Opaque",
+    "Layer": "AK-11182",
+    "Shade": "AK-11183",
+    "Highlight": "AK-11179",
+    "Url": "https://ak-interactive.com/product/imperial-blue-standard/"
+  },
+  {
+    "Id": "AK-11181",
+    "Name": "Dark Blue",
+    "Value": "#1E2E4B",
+    "Type": "Opaque",
+    "Layer": "AK-11180",
+    "Shade": "AK-11186",
+    "Highlight": "AK-11182",
+    "Url": "https://ak-interactive.com/product/dark-blue-standard/"
+  },
+  {
+    "Id": "AK-11182",
+    "Name": "Deep Blue",
+    "Value": "#1D4167",
+    "Type": "Extra Opaque",
+    "Layer": "AK-11179",
+    "Shade": "AK-11181",
+    "Highlight": null,
+    "Url": "https://ak-interactive.com/product/deep-blue-intense/"
+  },
+  {
+    "Id": "AK-11183",
+    "Name": "Amethyst Blue",
+    "Value": "#322B47",
+    "Type": "Opaque",
+    "Layer": "AK-11180",
+    "Shade": "AK-11189",
+    "Highlight": "AK-11179",
+    "Url": "https://ak-interactive.com/product/amethyst-blue-standard/"
+  },
+  {
+    "Id": "AK-11184",
+    "Name": "Medium Blue",
+    "Value": "#183A48",
+    "Type": "Opaque",
+    "Layer": "AK-11185",
+    "Shade": "AK-11186",
+    "Highlight": "AK-11178",
+    "Url": "https://ak-interactive.com/product/medium-blue-standard/"
+  },
+  {
+    "Id": "AK-11185",
+    "Name": "Star Blue",
+    "Value": "#064860",
+    "Type": "Opaque",
+    "Layer": "AK-11178",
+    "Shade": "AK-11184",
+    "Highlight": "AK-11182",
+    "Url": "https://ak-interactive.com/product/star-blue-standard/"
+  },
+  {
+    "Id": "AK-11186",
+    "Name": "Light Prussian Blue",
+    "Value": "#122C38",
+    "Type": "Opaque",
+    "Layer": "AK-11184",
+    "Shade": "AK-11167",
+    "Highlight": "AK-11185",
+    "Url": "https://ak-interactive.com/product/light-prussian-blue-standard/"
+  },
+  {
+    "Id": "AK-11187",
+    "Name": "Strong Dark Blue",
+    "Value": "#061520",
+    "Type": "Opaque",
+    "Layer": "AK-11186",
+    "Shade": "AK-11189",
+    "Highlight": "AK-11184",
+    "Url": "https://ak-interactive.com/product/strong-dark-blue-standard/"
+  },
+  {
+    "Id": "AK-11188",
+    "Name": "Oxford",
+    "Value": "#353A42",
+    "Type": "Opaque",
+    "Layer": "AK-11184",
+    "Shade": "AK-11167",
+    "Highlight": "AK-11185",
+    "Url": "https://ak-interactive.com/product/oxford-standard/"
+  },
+  {
+    "Id": "AK-11189",
+    "Name": "Dark Prussian Blue",
+    "Value": "#0C0E1A",
+    "Type": "Opaque",
+    "Layer": "AK-11187",
+    "Shade": "AK-11228",
+    "Highlight": "AK-11186",
+    "Url": "https://ak-interactive.com/product/dark-prussian-blue-standard/"
+  },
+  {
+    "Id": "AK-11190",
+    "Name": "Dark Sea Blue",
+    "Value": "#0D1915",
+    "Type": "Opaque",
+    "Layer": "AK-11160",
+    "Shade": "AK-11228",
+    "Highlight": "AK-11028",
+    "Url": "https://ak-interactive.com/product/dark-sea-blue-standard/"
+  },
+  {
+    "Id": "AK-11191",
+    "Name": "Gold",
+    "Value": "#9B6716",
+    "Type": "Metallic",
+    "Layer": "AK-11192",
+    "Shade": "AK-11196",
+    "Highlight": "AK-11206",
+    "Url": "https://ak-interactive.com/product/gold-metallic/"
+  },
+  {
+    "Id": "AK-11192",
+    "Name": "Old Gold",
+    "Value": "#B59116",
+    "Type": "Metallic",
+    "Layer": "AK-11206",
+    "Shade": "AK-11191",
+    "Highlight": null,
+    "Url": "https://ak-interactive.com/product/old-gold-metallic/"
+  },
+  {
+    "Id": "AK-11193",
+    "Name": "Rusty Gold",
+    "Value": "#6E4D19",
+    "Type": "Metallic",
+    "Layer": "AK-11196",
+    "Shade": "AK-11198",
+    "Highlight": "AK-11191",
+    "Url": "https://ak-interactive.com/product/rusty-gold-metallic/"
+  },
+  {
+    "Id": "AK-11194",
+    "Name": "Brass",
+    "Value": "#9F5E15",
+    "Type": "Metallic",
+    "Layer": "AK-11206",
+    "Shade": "AK-11195",
+    "Highlight": null,
+    "Url": "https://ak-interactive.com/product/brass-metallic/"
+  },
+  {
+    "Id": "AK-11195",
+    "Name": "Rusty Brass",
+    "Value": "#9E4F16",
+    "Type": "Metallic",
+    "Layer": "AK-11197",
+    "Shade": "AK-11198",
+    "Highlight": "AK-11206",
+    "Url": "https://ak-interactive.com/product/rusty-brass-metallic/"
+  },
+  {
+    "Id": "AK-11196",
+    "Name": "Bronze",
+    "Value": "#7D5413",
+    "Type": "Metallic",
+    "Layer": "AK-11191",
+    "Shade": "AK-11193",
+    "Highlight": "AK-11192",
+    "Url": "https://ak-interactive.com/product/bronze-metallic/"
+  },
+  {
+    "Id": "AK-11197",
+    "Name": "Copper",
+    "Value": "#BB5715",
+    "Type": "Metallic",
+    "Layer": "AK-11206",
+    "Shade": "AK-11194",
+    "Highlight": null,
+    "Url": "https://ak-interactive.com/product/copper-metallic/"
+  },
+  {
+    "Id": "AK-11198",
+    "Name": "Burnt Tin",
+    "Value": "#311B12",
+    "Type": "Metallic",
+    "Layer": "AK-11193",
+    "Shade": "AK-11219",
+    "Highlight": "AK-11196",
+    "Url": "https://ak-interactive.com/product/burnt-tin-metallic/"
+  },
+  {
+    "Id": "AK-11199",
+    "Name": "Metallic Blue",
+    "Value": "#859E9B",
+    "Type": "Metallic",
+    "Layer": null,
+    "Shade": "AK-11201",
+    "Highlight": null,
+    "Url": "https://ak-interactive.com/product/metallic-blue-metallic/"
+  },
+  {
+    "Id": "AK-11200",
+    "Name": "Astral Beryllium",
+    "Value": "#7D9F8F",
+    "Type": "Metallic",
+    "Layer": null,
+    "Shade": "AK-11226",
+    "Highlight": null,
+    "Url": "https://ak-interactive.com/product/astral-beryllium-metallic/"
+  },
+  {
+    "Id": "AK-11201",
+    "Name": "Cobalt Blue",
+    "Value": "#0D2335",
+    "Type": "Metallic",
+    "Layer": "AK-11199",
+    "Shade": "AK-11228",
+    "Highlight": null,
+    "Url": "https://ak-interactive.com/product/cobalt-blue-metallic/"
+  },
+  {
+    "Id": "AK-11202",
+    "Name": "Anodized Violet",
+    "Value": "#9A8494",
+    "Type": "Metallic",
+    "Layer": null,
+    "Shade": "AK-11223",
+    "Highlight": null,
+    "Url": "https://ak-interactive.com/product/anodized-violet-metallic/"
+  },
+  {
+    "Id": "AK-11203",
+    "Name": "Foundry Red",
+    "Value": "#C53632",
+    "Type": "Metallic",
+    "Layer": null,
+    "Shade": "AK-11229",
+    "Highlight": null,
+    "Url": "https://ak-interactive.com/product/foundry-red-metallic/"
+  },
+  {
+    "Id": "AK-11204",
+    "Name": "Emerald Metallic Green",
+    "Value": "#22763A",
+    "Type": "Metallic",
+    "Layer": "AK-11205",
+    "Shade": "AK-11226",
+    "Highlight": "AK-11200",
+    "Url": "https://ak-interactive.com/product/emerald-metallic-green-metallic/"
+  },
+  {
+    "Id": "AK-11205",
+    "Name": "Metallic Green",
+    "Value": "#74974E",
+    "Type": "Metallic",
+    "Layer": "AK-11200",
+    "Shade": "AK-11204",
+    "Highlight": null,
+    "Url": "https://ak-interactive.com/product/metallic-green-metallic/"
+  },
+  {
+    "Id": "AK-11206",
+    "Name": "Pearl",
+    "Value": "#F6F2D9",
+    "Type": "Metallic",
+    "Layer": null,
+    "Shade": "AK-11215",
+    "Highlight": null,
+    "Url": "https://ak-interactive.com/product/pearl-metallic/"
+  },
+  {
+    "Id": "AK-11207",
+    "Name": "Aluminium",
+    "Value": "#AEAEAE",
+    "Type": "Metallic",
+    "Layer": null,
+    "Shade": "AK-11208",
+    "Highlight": null,
+    "Url": "https://ak-interactive.com/product/aluminium-metallic-2/"
+  },
+  {
+    "Id": "AK-11208",
+    "Name": "Dark Aluminium",
+    "Value": "#787777",
+    "Type": "Metallic",
+    "Layer": "AK-11207",
+    "Shade": "AK-11212",
+    "Highlight": null,
+    "Url": "https://ak-interactive.com/product/dark-aluminium-metallic/"
+  },
+  {
+    "Id": "AK-11209",
+    "Name": "Silver",
+    "Value": "#9AA4A5",
+    "Type": "Metallic",
+    "Layer": null,
+    "Shade": "AK-11208",
+    "Highlight": null,
+    "Url": "https://ak-interactive.com/product/silver-metallic/"
+  },
+  {
+    "Id": "AK-11210",
+    "Name": "Natural Steel",
+    "Value": "#A3A29D",
+    "Type": "Metallic",
+    "Layer": "AK-11207",
+    "Shade": "AK-11211",
+    "Highlight": null,
+    "Url": "https://ak-interactive.com/product/natural-steel-metallic/"
+  },
+  {
+    "Id": "AK-11211",
+    "Name": "Oily Steel",
+    "Value": "#A4A18D",
+    "Type": "Metallic",
+    "Layer": "AK-11210",
+    "Shade": "AK-11208",
+    "Highlight": "AK-11207",
+    "Url": "https://ak-interactive.com/product/oily-steel-metallic/"
+  },
+  {
+    "Id": "AK-11212",
+    "Name": "Gun Metal",
+    "Value": "#4C4C49",
+    "Type": "Metallic",
+    "Layer": "AK-11208",
+    "Shade": "AK-11223",
+    "Highlight": "AK-11210",
+    "Url": "https://ak-interactive.com/product/gun-metal-metallic-2/"
+  },
+  {
+    "Id": "AK-11213",
+    "Name": "Clear Red",
+    "Value": "#C71618CC",
+    "Type": "Transparent",
+    "Layer": null,
+    "Shade": null,
+    "Highlight": null,
+    "Url": "https://ak-interactive.com/product/clear-red-standard/"
+  },
+  {
+    "Id": "AK-11214",
+    "Name": "Clear Blue",
+    "Value": "#212E57CC",
+    "Type": "Transparent",
+    "Layer": null,
+    "Shade": null,
+    "Highlight": null,
+    "Url": "https://ak-interactive.com/product/clear-blue-standard/"
+  },
+  {
+    "Id": "AK-11215",
+    "Name": "Clear Smoke",
+    "Value": "#754E23CC",
+    "Type": "Transparent",
+    "Layer": null,
+    "Shade": null,
+    "Highlight": null,
+    "Url": "https://ak-interactive.com/product/clear-smoke-standard/"
+  },
+  {
+    "Id": "AK-11216",
+    "Name": "Clear Green",
+    "Value": "#059938CC",
+    "Type": "Transparent",
+    "Layer": null,
+    "Shade": null,
+    "Highlight": null,
+    "Url": "https://ak-interactive.com/product/clear-green-standard/"
+  },
+  {
+    "Id": "AK-11217",
+    "Name": "Clear Yellow",
+    "Value": "#F4950DCC",
+    "Type": "Transparent",
+    "Layer": null,
+    "Shade": null,
+    "Highlight": null,
+    "Url": "https://ak-interactive.com/product/clear-yellow-standard/"
+  },
+  {
+    "Id": "AK-11218",
+    "Name": "Clear Orange",
+    "Value": "#EB5F0ACC",
+    "Type": "Transparent",
+    "Layer": null,
+    "Shade": null,
+    "Highlight": null,
+    "Url": "https://ak-interactive.com/product/clear-orange-standard/"
+  },
+  {
+    "Id": "AK-11219",
+    "Name": "Sepia INK",
+    "Value": "#1F120ACC",
+    "Type": "Ink",
+    "Layer": null,
+    "Shade": null,
+    "Highlight": null,
+    "Url": "https://ak-interactive.com/product/sepia-ink/"
+  },
+  {
+    "Id": "AK-11220",
+    "Name": "Turquoise INK",
+    "Value": "#005E5ECC",
+    "Type": "Ink",
+    "Layer": null,
+    "Shade": null,
+    "Highlight": null,
+    "Url": "https://ak-interactive.com/product/turquoise-ink/"
+  },
+  {
+    "Id": "AK-11221",
+    "Name": "Skin INK",
+    "Value": "#933719CC",
+    "Type": "Ink",
+    "Layer": null,
+    "Shade": null,
+    "Highlight": null,
+    "Url": "https://ak-interactive.com/product/skin-ink/"
+  },
+  {
+    "Id": "AK-11222",
+    "Name": "Sooty Black INK",
+    "Value": "#605D48CC",
+    "Type": "Ink",
+    "Layer": null,
+    "Shade": null,
+    "Highlight": null,
+    "Url": "https://ak-interactive.com/product/sooty-black-ink/"
+  },
+  {
+    "Id": "AK-11223",
+    "Name": "Carbon Black INK",
+    "Value": "#0F0B06CC",
+    "Type": "Ink",
+    "Layer": null,
+    "Shade": null,
+    "Highlight": null,
+    "Url": "https://ak-interactive.com/product/carbon-black-ink/"
+  },
+  {
+    "Id": "AK-11224",
+    "Name": "Purple INK",
+    "Value": "#B37C88CC",
+    "Type": "Ink",
+    "Layer": null,
+    "Shade": null,
+    "Highlight": null,
+    "Url": "https://ak-interactive.com/product/purple-ink/"
+  },
+  {
+    "Id": "AK-11225",
+    "Name": "Luminous Green INK",
+    "Value": "#73B731CC",
+    "Type": "Ink",
+    "Layer": null,
+    "Shade": null,
+    "Highlight": null,
+    "Url": "https://ak-interactive.com/product/luminous-green-ink/"
+  },
+  {
+    "Id": "AK-11226",
+    "Name": "Dark Green INK",
+    "Value": "#02673FCC",
+    "Type": "Ink",
+    "Layer": null,
+    "Shade": null,
+    "Highlight": null,
+    "Url": "https://ak-interactive.com/product/dark-green-ink/"
+  },
+  {
+    "Id": "AK-11227",
+    "Name": "Penetrating Red INK",
+    "Value": "#B64224CC",
+    "Type": "Ink",
+    "Layer": null,
+    "Shade": null,
+    "Highlight": null,
+    "Url": "https://ak-interactive.com/product/penetrating-red-ink/"
+  },
+  {
+    "Id": "AK-11228",
+    "Name": "Night Blue INK",
+    "Value": "#0C1D27CC",
+    "Type": "Ink",
+    "Layer": null,
+    "Shade": null,
+    "Highlight": null,
+    "Url": "https://ak-interactive.com/product/night-blue-ink/"
+  },
+  {
+    "Id": "AK-11229",
+    "Name": "Burnt Umber INK",
+    "Value": "#1C160FCC",
+    "Type": "Ink",
+    "Layer": null,
+    "Shade": null,
+    "Highlight": null,
+    "Url": "https://ak-interactive.com/product/burnt-umber-ink/"
+  },
+  {
+    "Id": "AK-11230",
+    "Name": "Titanium White INK",
+    "Value": "#FFFFFFCC",
+    "Type": "Ink",
+    "Layer": null,
+    "Shade": null,
+    "Highlight": null,
+    "Url": "https://ak-interactive.com/product/titanium-white-ink/"
+  }
+]
